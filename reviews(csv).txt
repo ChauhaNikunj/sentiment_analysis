@@ -1,0 +1,2 @@
+Reviews file link: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+Since the file is around 115 mb after zip, unable to send it here, you can directly download the file from kaggle.
