@@ -1,7 +1,3 @@
-Sure, Nikunj! Here's a clear, professional README file for your GitHub project based on your sentiment analysis code with both VADER and RoBERTa models:
-
----
-
 # Amazon Food Reviews Sentiment Analysis
 
 This project performs sentiment analysis on Amazon Fine Food Reviews using two popular NLP techniques: **VADER** (a lexicon and rule-based sentiment analysis tool) and **RoBERTa**, a pretrained transformer-based model from the Hugging Face Transformers library.
