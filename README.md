@@ -35,7 +35,7 @@ The goal of this project is to analyze the sentiment of customer reviews on Amaz
 
 ## Installation
 
-Make sure you have Python 3.x installed. Then install the required libraries:
+Make sure you have Python installed. Then install the required libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn nltk tqdm transformers scipy
