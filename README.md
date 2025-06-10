@@ -59,7 +59,7 @@ nltk.download('vader_lexicon')
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/amazon-food-reviews-sentiment.git
+git clone https://github.com/ChauhaNikunj/sentiment_analysis
 cd amazon-food-reviews-sentiment
 ```
 
